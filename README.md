@@ -1,17 +1,17 @@
-# bathy
+# Boaty
 Started using Phaser 3, no clue where this is going
 
 # Deps
-*Install Node
+* Install Node
 
-*npm start
+* npm start
 
-*goto: localhost:8080
+* goto: localhost:8080
 
 # Issues
 
---Need scaled assets
+- [ ] Need scaled assets
 
---Remove Phaser3 lib with CDN
+- [ ] Remove Phaser3 lib with CDN
 
---Make the actual game...
+- [ ] Make the actual game...
